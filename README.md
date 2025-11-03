@@ -50,6 +50,4 @@ I'm currently **open to frontend developer opportunities** where I can bring my 
 - 💼 LinkedIn: [www.linkedin.com/veronika-belozerova](https://www.linkedin.com/in/veronika-belozerova/)
 - 📧 Email: [v.belozerova.dev@gmail.com](v.belozerova.dev@gmail.com)
 - 🐙 GitHub: [github.com/verobelo](https://github.com/verobelo)
----
 
-**Built with ❤️ by me**
